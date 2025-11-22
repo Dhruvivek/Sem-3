@@ -151,6 +151,7 @@ Defective: 5, 4, 3, 5, 4, 6, 9, 15, 11, 6, 7, 6, 3, 5, 4, 2, 8, 7, 6, 4
 |**2**|25|460|42|
 
 **Test whether the samples come from normal population. (Tabulated value of F at d.f. (15,24) for 5% level of significance is 2.11, Tabulated value of t at d.f. 39 for 5% level of significance is 1.96)**
+
 **26. To test the effectiveness of inoculation against cholera, the following table was obtained:**
 
 |**Attacked**|**Not attacked**|**Total**|
