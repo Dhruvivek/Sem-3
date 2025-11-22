@@ -71,18 +71,23 @@
 - ---
 ## Very Short Answer Type:
 
-11. Write the alternative hypothesis if the null hypothesis is $H_{0}:\mu=50$ 
-12. In one-way classified data involving 4 classes each having 12 observations, find the degrees of freedom associated with error sum of squares. 
-13. If the average fraction defective of a large sample of size 2000 is 0.1537, calculate the control limits for np-chart. 
-14. The following data shows the value of sample mean and range for 10 samples. Calculate mean of sample means and range. 
+**11. Write the alternative hypothesis if the null hypothesis is $H_{0}:\mu=50$ 
+
+**12. In one-way classified data involving 4 classes each having 12 observations, find the degrees of freedom associated with error sum of squares. 
+
+**13. If the average fraction defective of a large sample of size 2000 is 0.1537, calculate the control limits for np-chart. 
+
+**14. The following data shows the value of sample mean and range for 10 samples. Calculate mean of sample means and range. 
 
 |**Sample no.**|**1**|**2**|**3**|**4**|**5**|**6**|**7**|**8**|**9**|**10**|
 |---|---|---|---|---|---|---|---|---|---|---|
 |**Mean**|11.2|11.8|10.8|11.6|11|9.6|10.4|9.6|10.6|10|
 |**Range**|7|4|8|5|7|4|8|4|7|9|
 
-15. A random sample of size 20 from a normal population has mean 42 and S.D. of 5. Test the hypothesis that the population mean is 45? (tabulated value is 2.09)
-16. Find the number of degrees of freedom for a contingency table of order $5 \times 4$?
+**15. A random sample of size 20 from a normal population has mean 42 and S.D. of 5. Test the hypothesis that the population mean is 45? (tabulated value is 2.09)
+
+**16. Find the number of degrees of freedom for a contingency table of order $5 \times 4$?
+
 ---
 ## Short Answer Type:
 **17. Two different samples from two different districts yielded the following results:**
@@ -116,7 +121,7 @@ Test at 0.05 level of significance that $\mu_{1}-\mu_{2}>150$. Tabulated value i
 
 Is the difference between the sample means significant? Given that the tabular value for 13 degree of freedom is 2.16 at 5% LOS. 
 
-21. The average income of persons was Rs 210 with S.D. of Rs 10 in a sample of 100 people of a city. For another sample of 150 persons, the average income was Rs 220 with S.D. of Rs 12. The S.D. of income of the people of the city was Rs 11. Test whether there is any significant difference between the average incomes of the localities. If the tabulated value is 1.96 at 5% level of significance. 
+**21. The average income of persons was Rs 210 with S.D. of Rs 10 in a sample of 100 people of a city. For another sample of 150 persons, the average income was Rs 220 with S.D. of Rs 12. The S.D. of income of the people of the city was Rs 11. Test whether there is any significant difference between the average incomes of the localities. If the tabulated value is 1.96 at 5% level of significance. 
 
 **22. The following are the mean lengths of a finished product from 10 samples each of size 5. The central limit for length is 200 cm. Construct the mean $\overline{X}$ Chart. Also examine whether the process is under control and state your recommendations. Given that $A_{2}=0.58$.**
 
@@ -135,7 +140,7 @@ Is the difference between the sample means significant? Given that the tabular v
 ---
 ## Large answer Type:
 
-24. In a manufacturing process, the number of defectives found in the inspection of 20 lots of 100 samples is given below:
+**24. In a manufacturing process, the number of defectives found in the inspection of 20 lots of 100 samples is given below:
 
 Lot No.: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20
 
@@ -162,7 +167,7 @@ Defective: 5, 4, 3, 5, 4, 6, 9, 15, 11, 6, 7, 6, 3, 5, 4, 2, 8, 7, 6, 4
 
 **Test whether the inoculation prevents attack from cholera or not. If the tabulated value is 3.841 at 5% LOS.**
 
-27. The following figures relate to the production in kg of three varieties I, II, III of wheat shown in 12 plots:
+**27. The following figures relate to the production in kg of three varieties I, II, III of wheat shown in 12 plots:
 
 Variety I: 14, 16, 18
 
