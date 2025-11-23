@@ -24,22 +24,23 @@
             }
           },
           {
-            "id": "7427d3f4b5dd70fe",
+            "id": "f802aedf51d6a252",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 - Indexes/Module 3 Probability and Random Variable.md",
+                "file": "4 - Indexes/Module 2 Statistical Techniques-II.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Module 3 Probability and Random Variable"
+              "title": "Module 2 Statistical Techniques-II"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -157,13 +158,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4 - Indexes/Module 1 Statistical Techniques-I.md",
+                "file": "4 - Indexes/Module 2 Statistical Techniques-II.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Module 1 Statistical Techniques-I"
+              "title": "Outline of Module 2 Statistical Techniques-II"
             }
           }
         ],
@@ -187,44 +188,43 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5f66d110bd16b08e",
+  "active": "f802aedf51d6a252",
   "lastOpenFiles": [
-    "4 - Indexes/Module 3 Probability and Random Variable.md",
-    "1- Rough Notes/Random Variable.md",
-    "1- Rough Notes/Laws Of Probability.md",
-    "1- Rough Notes/Workbook Questions U3.md",
-    "1- Rough Notes/Arithmetic Mean.md",
-    "1- Rough Notes/Temp.md",
-    "1- Rough Notes/Workbook Solved U3.md",
-    "1- Rough Notes/Skewness And Karl Pearson's Coefficient.md",
-    "1- Rough Notes/Kurtosis.md",
-    "1- Rough Notes/Introduction To Probability.md",
-    "1- Rough Notes/Definition of a Random Variable.md",
-    "1- Rough Notes/CheatSheet U1.md",
-    "1- Rough Notes/Correlation and Rank Correlation.md",
-    "1- Rough Notes/Curve Fitting.md",
-    "1- Rough Notes/All Questions Listed Down U1.md",
     "4 - Indexes/Module 1 Statistical Techniques-I.md",
-    "1- Rough Notes/Prompt.md",
-    "1- Rough Notes/PNC Basics.md",
-    "1- Rough Notes/Median.md",
-    "1- Rough Notes/Mode.md",
-    "1- Rough Notes/Moment.md",
-    "1- Rough Notes/Moment Continued.md",
-    "1- Rough Notes/Moment Generating Function.md",
+    "1- Rough Notes/U1-Measures Of Dispersion.md",
+    "6 - Full Notes/Practice Question U1.1.md",
+    "6 - Full Notes/U1/Practice Question U1.1.pdf",
+    "1- Rough Notes/U1-Mean Additional.md",
+    "6 - Full Notes/U1/U2-Mean Additional.pdf",
+    "1- Rough Notes/U1-Arithmetic Mean.md",
+    "6 - Full Notes/U1/U1-Arithmetic Mean.pdf",
+    "6 - Full Notes/U1",
+    "6 - Full Notes/New folder",
+    "1- Rough Notes/Laws Of Probability.md",
+    "1- Rough Notes/Math's Workbook U5.md",
+    "1- Rough Notes/Math's Workbook U4.md",
+    "1- Rough Notes/Workbook Questions U3.md",
     "1- Rough Notes/Maths Workbook U2.md",
-    "1- Rough Notes/Maths Workbook U1 Solution.md",
     "1- Rough Notes/Maths Workbook U1.md",
+    "1- Rough Notes/Math's Workbook U5 Solved.md",
+    "1- Rough Notes/Maths Workbook U1 Solution.md",
+    "1- Rough Notes/PNC Basics.md",
+    "1- Rough Notes/Prompt.md",
+    "1- Rough Notes/Random Variable.md",
+    "1- Rough Notes/U1-Median.md",
+    "1- Rough Notes/Temp.md",
+    "1- Rough Notes/Measure Of Central Tendency.md",
+    "1- Rough Notes/U1-Moment Generating Function.md",
+    "1- Rough Notes/U1-Kurtosis.md",
+    "1- Rough Notes/U1-Moment.md",
+    "1- Rough Notes/U1-Skewness And Karl Pearson's Coefficient.md",
+    "1- Rough Notes/U1-Moment Continued.md",
+    "1- Rough Notes/U1-Mode.md",
     "6 - Full Notes/U3/U3.0 - PNC Basics.pdf",
     "6 - Full Notes/U3/U3.3 - Random Variable.pdf",
     "6 - Full Notes/U3/U3.1 - Introduction To Probability.pdf",
     "2 - Source Material/Unit 2/Stats2.pdf",
     "2 - Source Material/Unit 5/Stat5.pdf",
-    "2 - Source Material/Unit 3/Stat3.pdf",
-    "2 - Source Material/Stats2.pdf",
-    "2 - Source Material/Stat5.pdf",
-    "2 - Source Material/Stat3.pdf",
-    "2 - Source Material/Unit 4/Stat5.pdf",
     "2 - Source Material/Unit 4/Unit-4 table stats.jpg",
     "Pasted image 20251115164050.png",
     "Pasted image 20251115164032.png",

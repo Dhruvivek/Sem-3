@@ -1,7 +1,5 @@
 ## Median
 
----
-
 ### Definition
 
 The **Median** is a **measure of central tendency**. It is the single value that represents the **exact middle** of a dataset that has been arranged in ascending (smallest to largest) or descending (largest to smallest) order.

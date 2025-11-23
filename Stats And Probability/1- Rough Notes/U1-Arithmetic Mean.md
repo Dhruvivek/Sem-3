@@ -280,11 +280,11 @@ $$\bar{X}_{12} = \frac{(N_1 \times \bar{X}_1) + (N_2 \times \bar{X}_2)}{N_1 + N_
 
 **Data Table:**
 
-| Group | Number of Employees ($N$) | Mean Salary ($\bar{X}$) | Total Salary ($N \times \bar{X}$) |
-| :--- | :--- | :--- | :--- |
-| Males | 10 | 30,000 | 300,000 |
-| Females | 20 | 25,000 | 500,000 |
-| **Combined** | **30** | | **800,000** |
+| Group        | Number of Employees ($N$) | Mean Salary ($\bar{X}$) | Total Salary ($N \times \bar{X}$) |
+| :----------- | :------------------------ | :---------------------- | :-------------------------------- |
+| Males        | 10                        | 30,000                  | 300,000                           |
+| Females      | 20                        | 25,000                  | 500,000                           |
+| **Combined** | **30**                    |                         | **800,000**                       |
 
 **Answer:** The mean salary of all 30 employees is 26,666.67.
 
@@ -512,13 +512,13 @@ Where $d' = \frac{X - A}{i}$
 (Using $A = 30$ and $i = 10$)
 
 | Marks ($X$) | No. of Students ($f$) | Deviation ($d = X - A$) | Step Deviation ($d' = \frac{d}{10}$) | $fd'$ ($f \times d'$) |
-| :--- | :--- | :--- | :--- | :--- |
-| 10 | 5 | -20 | -2 | 5 $\times$ -2 = -10 |
-| 20 | 8 | -10 | -1 | 8 $\times$ -1 = -8 |
-| 30 | 12 | 0 | 0 | 12 $\times$ 0 = 0 |
-| 40 | 6 | 10 | 1 | 6 $\times$ 1 = 6 |
-| 50 | 4 | 20 | 2 | 4 $\times$ 2 = 8 |
-| **Total** | **$N = \sum f = 35$** | | | **$\sum fd' = -4$** |
+| :---------- | :-------------------- | :---------------------- | :----------------------------------- | :-------------------- |
+| 10          | 5                     | -20                     | -2                                   | 5 $\times$ -2 = -10   |
+| 20          | 8                     | -10                     | -1                                   | 8 $\times$ -1 = -8    |
+| 30          | 12                    | 0                       | 0                                    | 12 $\times$ 0 = 0     |
+| 40          | 6                     | 10                      | 1                                    | 6 $\times$ 1 = 6      |
+| 50          | 4                     | 20                      | 2                                    | 4 $\times$ 2 = 8      |
+| **Total**   | **$N = \sum f = 35$** |                         |                                      | **$\sum fd' = -4$**   |
 
 *(Check $\sum fd'$: (-10) + (-8) + 0 + 6 + 8 = -18 + 14 = -4)*
 
@@ -532,8 +532,6 @@ $$\bar{X} = 28.857$$
 **Answer:** The mean marks are 28.857. All three methods give the exact same result. The Step Deviation Method was the easiest, as it involved multiplying very small numbers.
 
 ---
----
-
 ### Continuous Series
 
 A **Continuous Series** (or frequency distribution) is a dataset grouped into continuous class intervals (e.g., 0-10, 10-20).

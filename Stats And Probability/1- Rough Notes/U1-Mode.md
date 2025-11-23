@@ -1,7 +1,4 @@
 ## Mode
-
----
-
 ### Definition
 
 The **Mode** is a measure of central tendency that identifies the **most frequently occurring value** in a dataset. Unlike the mean (average) or median (middle value), the mode is simply the value that appears the highest number of times.

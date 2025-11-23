@@ -1,4 +1,4 @@
-# Summary
+# Moments
 ### Moments About Mean (central moment)
 
 **Central Moments** are calculated using deviations from the **arithmetic mean ($\bar{x}$)**. They are "central" because the mean is the center of gravity of the distribution. They are the most useful moments for describing the shape of a distribution because they are not affected by changes in the data's location (i.e., adding a constant to all values).

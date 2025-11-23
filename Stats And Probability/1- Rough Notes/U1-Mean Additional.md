@@ -113,11 +113,11 @@ We are given:
 
 **Summary Table:**
 
-| Section | Number of Students ($N$) | Mean Weight ($\bar{X}$) | Total Weight ($N \times \bar{X}$) |
-| :--- | :--- | :--- | :--- |
-| A | 40 | 60 kg | 2400 kg |
-| B | 60 | 70 kg | 4200 kg |
-| **Combined** | **$N_1 + N_2 = 100$** | | **Total Sum = 6600 kg** |
+| Section      | Number of Students ($N$) | Mean Weight ($\bar{X}$) | Total Weight ($N \times \bar{X}$) |
+| :----------- | :----------------------- | :---------------------- | :-------------------------------- |
+| A            | 40                       | 60 kg                   | 2400 kg                           |
+| B            | 60                       | 70 kg                   | 4200 kg                           |
+| **Combined** | **$N_1 + N_2 = 100$**    |                         | **Total Sum = 6600 kg**           |
 
 **Answer:** The combined mean weight of all 100 students is 66 kg.
 
@@ -160,12 +160,13 @@ Here, the scores are the values ($X$) and the percentages are the weights ($W$).
 5.  Apply the formula.
 
 **Calculation Table:**
-| Component | Score ($X$) | Weight ($W$) | $WX$ ($W \times X$) |
-| :--- | :--- | :--- | :--- |
-| Homework | 90 | 20 | 20 $\times$ 90 = 1800 |
-| Midterm | 80 | 30 | 30 $\times$ 80 = 2400 |
-| Final Exam | 88 | 50 | 50 $\times$ 88 = 4400 |
-| **Total** | | **$\sum W = 100$** | **$\sum WX = 8600$** |
+
+| Component  | Score ($X$) | Weight ($W$)       | $WX$ ($W \times X$)   |
+| :--------- | :---------- | :----------------- | :-------------------- |
+| Homework   | 90          | 20                 | 20 $\times$ 90 = 1800 |
+| Midterm    | 80          | 30                 | 30 $\times$ 80 = 2400 |
+| Final Exam | 88          | 50                 | 50 $\times$ 88 = 4400 |
+| **Total**  |             | **$\sum W = 100$** | **$\sum WX = 8600$**  |
 
 **Calculation:**
 $$\bar{X}_w = \frac{\sum WX}{\sum W} = \frac{8600}{100} = 86$$
@@ -173,106 +174,3 @@ $$\bar{X}_w = \frac{\sum WX}{\sum W} = \frac{8600}{100} = 86$$
 **Answer:** The student's final weighted mean grade is 86.
 
 ---
-
-## Geometric Mean
-
-The **Geometric Mean (GM)** is a type of average used for data that is multiplicative, not additive. It is most often used to find the average **rate of change**, such as average growth rates (e.g., population growth, interest rates, investment returns).
-
-It is calculated by multiplying all $N$ values together and then taking the $N$-th root of the product.
-
-### Formula
-$$GM = \sqrt[N]{X_1 \times X_2 \times \dots \times X_N}$$
-
-Where:
-* $N$ = The total number of values
-* $X_1, X_2, \dots$ = The values in the dataset (which must all be positive)
-
-**Important:** When dealing with percentage growth rates (e.g., 15% growth), you must first convert them to growth factors (e.g., 1.15). A loss of 5% would be a factor of 0.95 (since $1.00 - 0.05 = 0.95$).
-
----
-
-### Solved Example
-
-**Question:** An investment's value grows by 5% in Year 1, 10% in Year 2, and 21% in Year 3. What is the average annual rate of growth?
-
-**Solution:**
-We cannot just average the percentages. We must use the Geometric Mean of the growth *factors*.
-
-1.  **Convert percentages to growth factors ($X$):**
-    * Year 1 ($X_1$): 5% growth = 1.05
-    * Year 2 ($X_2$): 10% growth = 1.10
-    * Year 3 ($X_3$): 21% growth = 1.21
-2.  **Count the number of values ($N$):**
-    * $N = 3$ (for 3 years)
-3.  **Apply the formula:**
-    $$GM = \sqrt[3]{1.05 \times 1.10 \times 1.21}$$
-    * First, multiply the numbers inside:
-        $1.05 \times 1.10 \times 1.21 = 1.39755$
-    * Now, find the 3rd (cube) root:
-        $$GM = \sqrt[3]{1.39755} \approx 1.118$$
-
-4.  **Convert the GM factor back to a percentage:**
-    * Average growth factor = 1.118
-    * Average growth rate = $1.118 - 1.00 = 0.118$
-    * Multiply by 100 to get the percentage: $0.118 \times 100 = 11.8\%$
-
-**Answer:** The average annual rate of growth is 11.8%.
-
----
-
-## Harmonic Mean
-
-The **Harmonic Mean (HM)** is another type of average, typically used for sets of rates, specifically when averaging **speeds** (like km/h) over a fixed distance, or other rates like "items per hour."
-
-It is defined as the reciprocal of the arithmetic mean of the reciprocals of the observations. This sounds complex, but the formula is straightforward. It gives less weight to large values and more weight to small values.
-
-### Formula
-$$HM = \frac{N}{\sum \left( \frac{1}{X} \right)}$$
-or
-$$HM = \frac{N}{\frac{1}{X_1} + \frac{1}{X_2} + \dots + \frac{1}{X_N}}$$
-
-Where:
-* $N$ = The total number of values
-* $X$ = The values in the dataset
-* $\sum \left( \frac{1}{X} \right)$ = The sum of the reciprocals of all values
-
----
-
-### Solved Example
-
-**Question:** A car travels to a city at a speed of 60 km/h and returns by the same route at a speed of 40 km/h. What is the average speed for the entire journey?
-
-*(Note: The answer is **not** the arithmetic mean of 50 km/h)*
-
-**Solution:**
-This is an average of speeds over a fixed, equal distance, so the Harmonic Mean is the correct method.
-
-1.  **Identify the values ($X$):**
-    * $X_1 = 60$
-    * $X_2 = 40$
-2.  **Count the number of values ($N$):**
-    * $N = 2$
-3.  **Find the reciprocal of each value ($1/X$) and sum them.**
-
-**Calculation Table:**
-| Trip | Speed ($X$) | Reciprocal ($\frac{1}{X}$) |
-| :--- | :--- | :--- |
-| 1 (to city) | 60 | 1/60 |
-| 2 (return) | 40 | 1/40 |
-| **Total** | $N = 2$ | **$\sum (\frac{1}{X}) = \frac{1}{60} + \frac{1}{40}$** |
-
-4.  **Calculate the sum of reciprocals:**
-    * To add $\frac{1}{60} + \frac{1}{40}$, find a common denominator (which is 120).
-    * $\frac{1}{60} = \frac{2}{120}$
-    * $\frac{1}{40} = \frac{3}{120}$
-    * $\sum (\frac{1}{X}) = \frac{2}{120} + \frac{3}{120} = \frac{5}{120}$
-
-5.  **Apply the formula:**
-    $$HM = \frac{N}{\sum \left( \frac{1}{X} \right)}$$
-    $$HM = \frac{2}{\frac{5}{120}}$$
-    * To divide by a fraction, we invert and multiply:
-        $HM = 2 \times \frac{120}{5}$
-        $HM = \frac{240}{5}$
-        $HM = 48$
-
-**Answer:** The average speed for the entire journey is 48 km/h.

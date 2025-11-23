@@ -1,6 +1,6 @@
 ## MCQS:
 
-1. The value of $E(X^{2})$ for the following discrete distribution is.... 
+91. The value of $E(X^{2})$ for the following discrete distribution is.... 
 
 | **X**    | **0** | **1** | **2** | **3** |
 | -------- | ----- | ----- | ----- | ----- |
@@ -25,42 +25,42 @@
 - **C.** $-4/7$ 
 - **D.** -1 
 
-2. Suppose that X is a Poisson random variable, If $P(x=2)=\frac{3}{2}P(X=1)$ then P(0) is..... 
+4. Suppose that X is a Poisson random variable, If $P(x=2)=\frac{3}{2}P(X=1)$ then P(0) is..... 
 
 - **A.** $e^{-2}$ 
 - **B.** $e^{-3}$ 
 - **C.** $e^{2}$ 
 - **D.** $e^{3}$ 
 
-2. For Binomial distribution sum of mean and variance is 6 and difference of mean and variance is 2 then probability of success will be...... 
+5. For Binomial distribution sum of mean and variance is 6 and difference of mean and variance is 2 then probability of success will be...... 
 
 - **A.** 1 
 - **B.** 0.5 
 - **C.** 0.25 
 - **D.** 0.75
 
-2. If variance of Poisson distribution is 2. If $P(2)=0.2706$ then P(4) is.... 
+6. If variance of Poisson distribution is 2. If $P(2)=0.2706$ then P(4) is.... 
 
 - **A.** 0.2706 
 - **B.** 0.1804 
 - **C.** 0.1431 
 - **D.** 0.0902 
 
-2. __________ is applied for Continuous Random Variable. 
+7. __________ is applied for Continuous Random Variable. 
 
 - **A.** Binomial Distribution 
 - **B.** Poisson Distribution 
 - **C.** Normal Distribution 
 - **D.** None of these. 
 
-2. If the probability that out of 5 persons 4 are swimmers is double to the probability that 5 persons are swimmers. Then the probability that person is not a swimmer is 
+8. If the probability that out of 5 persons 4 are swimmers is double to the probability that 5 persons are swimmers. Then the probability that person is not a swimmer is 
 
 - **A.** 0.3601 
 - **B.** 0.7143 
 - **C.** 0.2857 
 - **D.** 0.0715
 
-2. Consider a random variable x for which Poisson distribution is best fitted. It happens that on this distribution plot $P(x=1)=\frac{4}{3}P(x=2)$. The variance of this distribution will be---- 
+9. Consider a random variable x for which Poisson distribution is best fitted. It happens that on this distribution plot $P(x=1)=\frac{4}{3}P(x=2)$. The variance of this distribution will be---- 
 
 - **A.** 2 
 - **B.** $3/2$ 

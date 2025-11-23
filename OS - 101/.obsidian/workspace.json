@@ -8,67 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "687efdba95a5b049",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4 - Indexes/Operating System Index.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Operating System Index"
-            }
-          },
-          {
-            "id": "79dee591458973be",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4 - Indexes/College HandNotes.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "College HandNotes"
-            }
-          },
-          {
-            "id": "87e6169c10e33f70",
+            "id": "5fd74d3f3d79ddbf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "6 - Full Notes/Memory Management.md",
-                "mode": "source",
-                "source": false
+                "file": "3 - Material Dump/Theory One Shot OS.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Memory Management"
-            }
-          },
-          {
-            "id": "fbb95ee04de5d3cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Full Notes/Deadlock.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Deadlock"
+              "icon": "lucide-file-text",
+              "title": "Theory One Shot OS"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -226,51 +177,51 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fbb95ee04de5d3cf",
+  "active": "5fd74d3f3d79ddbf",
   "lastOpenFiles": [
-    "6 - Full Notes/Process Synchronization & Deadlock.md",
-    "6 - Full Notes/Deadlock.md",
-    "4 - Indexes/Operating System Index.md",
-    "6 - Full Notes/Memory Management.md",
-    "6 - Full Notes/Temp.md",
-    "6 - Full Notes/Process Sync In One Shot.md",
-    "4 - Indexes/College HandNotes.md",
-    "6 - Full Notes/IO Ending.md",
-    "6 - Full Notes/IO Management And Disk Scheduling.md",
-    "6 - Full Notes/Paging, Segmentation And VM.md",
-    "6 - Full Notes/Numerical Prac U4.md",
-    "6 - Full Notes/IO Management.md",
-    "Pasted image 20251121072521.png",
-    "Pasted image 20251121072506.png",
-    "Pasted image 20251121072459.png",
-    "6 - Full Notes/Numerical Unit 5.md",
-    "6 - Full Notes/Memory Management In One Short.md",
-    "Pasted image 20251121071047.png",
-    "Pasted image 20251121071037.png",
-    "Pasted image 20251121071024.png",
-    "Pasted image 20251121070949.png",
-    "Pasted image 20251121070933.png",
-    "Pasted image 20251121070603.png",
     "4 - Indexes/Prompt.md",
-    "6 - Full Notes/Thrashing.md",
+    "4 - Indexes/Linux 101.md",
+    "4 - Indexes/Operating System Index.md",
+    "1- Rough Notes/Things I Might Need To Look Into Again.md",
+    "4 - Indexes/College Index.md",
+    "4 - Indexes/College HandNotes.md",
+    "4 - Indexes/Assignments.md",
+    "4 - Indexes/Introduction.md",
+    "4 - Indexes/Process Management.md",
+    "6 - Full Notes/Unit 5 OS.md",
+    "6 - Full Notes/IO Management And Disk Scheduling.md",
+    "6 - Full Notes/Memory Management.md",
+    "6 - Full Notes/Unit 4 OS.md",
+    "6 - Full Notes/Unit 2 OS.md",
+    "6 - Full Notes/Unit 3 OS.md",
+    "6 - Full Notes/Deadlock.md",
+    "6 - Full Notes/Process Sync In One Shot.md",
     "6 - Full Notes/Process Synchronization- Race Condition.md",
-    "3 - Material Dump/Theory One Shot OS.pdf",
+    "6 - Full Notes/Process Synchronization & Deadlock.md",
     "6 - Full Notes/Threads & Multithreading.md",
     "6 - Full Notes/Threads OS.md",
+    "6 - Full Notes/Threads 101.md",
+    "6 - Full Notes/First Come First Server (FCFS).md",
+    "6 - Full Notes/Scheduling Template.md",
+    "6 - Full Notes/CPU Scheduling Basics.md",
+    "6 - Full Notes/CPU Scheduling.md",
+    "5 - Screenshot Dump/Pasted image 20251121072506.png",
+    "5 - Screenshot Dump/Pasted image 20251121072459.png",
+    "5 - Screenshot Dump/Pasted image 20251121071047.png",
+    "5 - Screenshot Dump/Pasted image 20251121071037.png",
+    "5 - Screenshot Dump/Pasted image 20251121071024.png",
+    "5 - Screenshot Dump/Pasted image 20251121070949.png",
+    "5 - Screenshot Dump/Pasted image 20251121070933.png",
+    "5 - Screenshot Dump/Pasted image 20251121070603.png",
+    "5 - Screenshot Dump/Pasted image 20251014152718.png",
+    "5 - Screenshot Dump/Pasted image 20251013214137.png",
+    "3 - Material Dump/Theory One Shot OS.pdf",
     "3 - Material Dump/Unit_5/Operating System (OS) Unit-5.pdf",
     "3 - Material Dump/Unit_4/Operating System (OS) Unit-4.pdf",
     "3 - Material Dump/Unit_2/Operating System (OS) Unit-2.pdf",
     "3 - Material Dump/Unit_3/Operating System (OS) Unit-3.pdf",
-    "6 - Full Notes/CPU Scheduling.md",
-    "1- Rough Notes/Operating System 3.md",
-    "4 - Indexes/Introduction.md",
-    "1- Rough Notes/Operating System 2.md",
-    "1- Rough Notes/Operating System 1.md",
-    "4 - Indexes/Assignments.md",
-    "4 - Indexes/Linux 101.md",
     "2 - Source Material/GATE CS Free Resourcs - Anjali (AIR13).pdf",
     "2 - Source Material/Silberschatz 9th edition.pdf",
-    "Pasted image 20251014152718.png",
     "2 - Source Material/Lab Syllabus.pdf",
     "2 - Source Material/~$ lab  2025 new sem.docx",
     "2 - Source Material/Unit 1.pdf",
