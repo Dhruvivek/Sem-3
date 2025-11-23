@@ -79,12 +79,14 @@
 ### Quartile Deviation
 
 * Find interquartile range, quartile deviation and coefficient of quartile deviation: 28, 18, 20, 24, 27, 30, 15.
+
 * Find interquartile range, quartile deviation and coefficient of quartile deviation:
 
 | X   | 10  | 20  | 30  | 40  | 50  | 60  |
 | --- | --- | --- | --- | --- | --- | --- |
 | F   | 2   | 8   | 20  | 35  | 42  | 20  |
 * Find quartile deviation and coefficient of quartile deviation: 4, 8, 10, 7, 15, 11, 18, 14, 12, 16.
+
 * Find quartile deviation and coefficient of quartile deviation:
 
 | X   | 20  | 40  | 60  | 80  | 100 |
@@ -96,6 +98,7 @@
 ### Mean Deviation
 
 * Calculate M.D. from Mean & Median & coefficient of Mean Deviation from the following data: 20, 22, 25, 38, 40, 50, 65, 70, 75.
+
 * Calculate M.D. from Mean & Median & coefficient of Mean Deviation from the following data:
 
 | X   | 20  | 30  | 40  | 50  | 60  | 70  |
@@ -117,6 +120,7 @@
     * Mean deviation
     * Standard deviation
     * Variance
+
 * Explain the measures of dispersion and also find the range & Coefficient of Range for the following data: 20, 35, 25, 30, 15.
 
 ***

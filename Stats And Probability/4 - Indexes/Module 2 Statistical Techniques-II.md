@@ -4,7 +4,7 @@
     - [ ] Fitting of second-degree parabola
     - [ ] Exponential curves
 - [ ] [[Correlation and Rank Correlation]]
-- [ ] Regression
+- [ ] [[Regression]]
 	- [ ] Linear Regression, 
 	- [ ] Non-linear Regression,
 	- [ ] and Multiple Linear Regression

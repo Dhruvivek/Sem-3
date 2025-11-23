@@ -1,7 +1,3 @@
-Here's the updated cheat sheet with Median and Mode included\!
-
------
-
 # Statistics Cheat Sheet: Statistical Techniques I
 
 ## 1\. Measures of Central Tendency
