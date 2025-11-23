@@ -1,0 +1,9 @@
+- [[CPU Scheduling Basics]]
+- [[Scheduling Template]]
+- [[First Come First Server (FCFS)]]
+- [[Shortest Job First (SJF)]]
+- [[Shortest Remaining time First (SRTF)]]
+- [[Highest Response Ration First (HRRN)]]
+- [[Priority Based Algorithm]]
+- [[Round Robin Algorithm]]
+- [[Multilevel Queue & Feedback Scheduling]] (Complete This During Revision)
