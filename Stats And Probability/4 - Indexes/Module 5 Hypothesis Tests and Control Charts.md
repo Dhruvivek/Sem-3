@@ -1,0 +1,16 @@
+- [ ] Testing a Hypothesis
+	- [ ] Null hypothesis
+	- [ ] Alternative hypothesis
+	- [ ] Level of significance
+	- [ ] Confidence limits
+- [ ] Test of significance of difference of means
+	- [ ] Z-test
+	- [ ] t-test
+	- [ ] chi-test
+	- [ ] F-test
+	- [ ] One way ANOVA
+- [ ] Statistical Quality Control (SQC)
+	- [ ] Control Charts 
+	- [ ] Control Charts for Variables(Mean and Range Charts)
+	- [ ] Control Charts for Variables(p, np and C charts)
+- [ ] Math's Workbook U5

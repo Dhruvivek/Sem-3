@@ -1,0 +1,10 @@
+- [ ] **Expectations of single Random Variable**
+	- [ ] Mean
+	- [ ] Variance
+- [ ] Moment Generating Function
+- [ ] Distributions
+	- [ ] Binomial Distribution
+	- [ ] Poisson Distribution
+	- [ ] Normal Distribution
+	- [ ] Exponential Distribution
+- [ ] Math's Workbook U4
