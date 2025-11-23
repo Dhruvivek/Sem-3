@@ -1,0 +1,227 @@
+{
+  "main": {
+    "id": "3b405a7de0506f61",
+    "type": "split",
+    "children": [
+      {
+        "id": "259ed7ac7a351f81",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aea8fb23a4730a63",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4 - Indexes/College 101.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "College 101"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a0c021ed912f3bd0",
+    "type": "split",
+    "children": [
+      {
+        "id": "c9b6a0259e0a0076",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "391645ae345513ab",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "cf874685fbb5dacf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5d1a07a98c4c9116",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 296.5
+  },
+  "right": {
+    "id": "dc74bd27716b993d",
+    "type": "split",
+    "children": [
+      {
+        "id": "f33e267c272304d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "032a415a5fd3ad3d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2 - Source Material/Machine Learning ( etc.) (z-lib.org).pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Machine Learning ( etc.) (z-lib.org)"
+            }
+          },
+          {
+            "id": "ee147b541c859380",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2 - Source Material/Machine Learning ( etc.) (z-lib.org).pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Machine Learning ( etc.) (z-lib.org)"
+            }
+          },
+          {
+            "id": "3c6823b4684e2ce8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0e19dc69aa5fcd1c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "6 - Full Notes/Additional Concepts.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Additional Concepts"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "391645ae345513ab",
+  "lastOpenFiles": [
+    "1- Rough Notes/Unit 3 RAW.md",
+    "1- Rough Notes/Unit 2 Raw Topics.md",
+    "1- Rough Notes/Unit 2 Notes Sample Example.md",
+    "1- Rough Notes/Unit 1 Introduction To Artificial Intelligence.md",
+    "1- Rough Notes/U2-Introduction To Machine Learning.md",
+    "1- Rough Notes/Search Algorithm Questions Practice.md",
+    "1- Rough Notes/Natural Language Processing.md",
+    "1- Rough Notes/Index U1.md",
+    "1- Rough Notes/CS50AI - 1. Knowledge.md",
+    "1- Rough Notes/CS50AI - 0 My Notes.md",
+    "1- Rough Notes/Computer Vision.md",
+    "1- Rough Notes/Chatbots Introduction.md",
+    "1- Rough Notes/AI Data Pipeline.md",
+    "1- Rough Notes/Additional Concepts.md",
+    "2 - Source Material/lecture0.pdf",
+    "5 - SS/Pasted image 20251110230604.png",
+    "5 - SS/Pasted image 20251110230556.png",
+    "5 - SS/Pasted image 20251110225832.png",
+    "5 - SS/Pasted image 20251110224802.png",
+    "5 - SS/Pasted image 20251029140720.png",
+    "5 - SS/Pasted image 20251029140712.png",
+    "5 - SS/Pasted image 20251029140701.png",
+    "5 - SS/Pasted image 20251029140650.png",
+    "5 - SS/Pasted image 20251004201009.png",
+    "5 - SS/Pasted image 20251004200901.png",
+    "6 - Full Notes/AI Data Pipeline.md",
+    "6 - Full Notes/Chatbots Introduction.md",
+    "6 - Full Notes/Computer Vision.md",
+    "6 - Full Notes/CS50AI - 0 My Notes.md",
+    "6 - Full Notes/CS50AI - 1. Knowledge.md",
+    "6 - Full Notes/Index U1.md",
+    "6 - Full Notes/Search Algorithm Questions Practice.md",
+    "6 - Full Notes/U2-Introduction To Machine Learning.md",
+    "6 - Full Notes/Unit 1 Introduction To Artificial Intelligence.md",
+    "6 - Full Notes/Unit 3 RAW.md",
+    "6 - Full Notes/Unit 2 Raw Topics.md",
+    "6 - Full Notes/Unit 2 Notes Sample Example.md",
+    "2 - Source Material/Machine Learning ( etc.) (z-lib.org).pdf",
+    "2 - Source Material/ML/02.Aurélien Géron - Hands-On Machine Learning with Scikit-Learn and TensorFlow_ Concepts, Tools, and Techniques to Build Intelligent Systems (2017, O’Reilly Media) - libgen.l.pdf",
+    "2 - Source Material/ML/01.AI and Machine Learning for Coders -- Laurence Moroney [Laurence Moroney] -- 2020 -- O'Reilly Media, Inc.pdf",
+    "2 - Source Material/ML/00.Getting Started with Artificial Intelligence_ A Practical -- Tom Markiewicz and Josh Zheng -- 2, 2020 -- O'Reilly Media, Incorporated.pdf",
+    "2 - Source Material/CS50AI/Lec 0/lecture0.pdf",
+    "6 - Full Notes/Search Algorithms 101/MinMax.pdf",
+    "6 - Full Notes/Search Algorithms 101/Greedy Best First Search.pdf",
+    "6 - Full Notes/Search Algorithms 101/DFS Maze.pdf",
+    "6 - Full Notes/Search Algorithms 101/CS50AI - 0 My Notes BW.pdf",
+    "Untitled 1.canvas",
+    "Untitled 2.canvas",
+    "Untitled.canvas"
+  ]
+}

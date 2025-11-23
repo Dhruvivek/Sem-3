@@ -1,4 +1,4 @@
-- [ ] **Expectations of single Random Variable**
+- [ ] Expectations of single Random Variable
 	- [ ] Mean
 	- [ ] Variance
 - [ ] Moment Generating Function
@@ -7,4 +7,5 @@
 	- [ ] Poisson Distribution
 	- [ ] Normal Distribution
 	- [ ] Exponential Distribution
-- [ ] Math's Workbook U4
+- [ ] [[Math's Workbook U4]]
+- [ ] [[Math's Workbook U4 Solved]]
