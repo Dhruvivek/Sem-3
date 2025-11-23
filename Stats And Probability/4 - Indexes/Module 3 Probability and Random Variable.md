@@ -1,14 +1,19 @@
-- [ ] **Random Variable**
+- [ ] [[PNC Basics]]
+- [ ] [[Introduction To Probability]]
+- [ ] [[Laws Of Probability]]
+- [ ] [[Random Variable]]
     - [ ] Definition of a Random Variable
     - [ ] Discrete Random Variable
     - [ ] Continuous Random Variable
     - [ ] Probability Mass Function
     - [ ] Probability Density Function
     - [ ] Distribution functions
-- [ ] **Multiple Random Variables**
+- [ ] Multiple Random Variables
     - [ ] Joint Density and Distribution Function
     - [ ] Properties of Joint Distribution function
     - [ ] Marginal Density Functions
     - [ ] Conditional Distribution and Density
     - [ ] Statistical Independence
     - [ ] Central Limit Theorem (Proof not expected)
+- [ ] [[Workbook Questions U3]]
+- [ ] [[Workbook Solved U3]]

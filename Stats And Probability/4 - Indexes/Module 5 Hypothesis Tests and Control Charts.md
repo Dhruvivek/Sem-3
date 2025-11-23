@@ -13,4 +13,5 @@
 	- [ ] Control Charts 
 	- [ ] Control Charts for Variables(Mean and Range Charts)
 	- [ ] Control Charts for Variables(p, np and C charts)
-- [ ] Math's Workbook U5
+- [ ] [[Math's Workbook U5]]
+- [ ] [[Math's Workbook U5 Solved]]
