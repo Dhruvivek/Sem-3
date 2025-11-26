@@ -21,7 +21,9 @@ $$f(x|y) = \frac{f(x, y)}{f_Y(y)}, \quad \text{provided } f_Y(y) > 0$$
 The conditional pdf of $Y$ given that $X = x$ is defined as:
 
 $$f(y|x) = \frac{f(x, y)}{f_X(x)}, \quad \text{provided } f_X(x) > 0$$
+
 ---
+
 #### 72. A continuous random variable $X$ has a p.d.f. $f(x)=3x^{2}$, $0\le x\le1.$ Find $a$ such that $P(X\le a)=P(X>a)$.
 
 Step 1: Understand the Probability Condition
