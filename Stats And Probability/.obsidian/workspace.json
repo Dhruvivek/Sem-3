@@ -24,51 +24,22 @@
             }
           },
           {
-            "id": "a40d1b24703b1f3d",
+            "id": "d4aee8b48070db1f",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1- Rough Notes/All Questions Listed Down U1.md",
+                "file": "4 - Indexes/Module 5 Hypothesis Tests And Control Charts.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "All Questions Listed Down U1"
-            }
-          },
-          {
-            "id": "8daf5a9095f3d8cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1- Rough Notes/Random Variable.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Random Variable"
-            }
-          },
-          {
-            "id": "aa0642842f3c6a21",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4 - Indexes/Module 3 Probability and Random Variable.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Module 3 Probability and Random Variable"
+              "title": "Module 5 Hypothesis Tests And Control Charts"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -125,7 +96,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "dc74bd27716b993d",
@@ -186,13 +158,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4 - Indexes/Module 1 Statistical Techniques-I.md",
+                "file": "1- Rough Notes/U2.1-Curve Fitting.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Module 1 Statistical Techniques-I"
+              "title": "Outline of U2.1-Curve Fitting"
             }
           }
         ],
@@ -216,51 +188,54 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8daf5a9095f3d8cc",
+  "active": "5f66d110bd16b08e",
   "lastOpenFiles": [
-    "2 - Source Material/Unit 4/Practice Sheet 4.md",
-    "2 - Source Material/Unit 3/Practice Sheet 3.md",
-    "1- Rough Notes/Math's Workbook U4 Solution.md",
+    "4 - Indexes/Module 5 Hypothesis Tests And Control Charts.md",
     "1- Rough Notes/Math's Workbook U3 Solution.md",
+    "6 - Full Notes/U3/Math's Workbook U3 Solution.pdf",
     "4 - Indexes/Module 3 Probability and Random Variable.md",
-    "1- Rough Notes/Random Variable.md",
+    "6 - Full Notes/U3.4- Practice Set 1.md",
+    "6 - Full Notes/U3.6-Practice Set 2.md",
+    "6 - Full Notes/U3/U3.6-Practice Set 2.pdf",
+    "6 - Full Notes/U3 Topicwise Questions.md",
     "4 - Indexes/Module 1 Statistical Techniques-I.md",
-    "1- Rough Notes/All Questions Listed Down U1.md",
+    "6 - Full Notes/U3/U3.4- Practice Set 1.pdf",
+    "6 - Full Notes/U5.3-Control Charts.md",
+    "6 - Full Notes/U5/U5.3-Control Charts.pdf",
+    "1- Rough Notes/Math's Workbook U5.md",
+    "1- Rough Notes/Math's Workbook U5 Solved.md",
+    "6 - Full Notes/U5/Math's Workbook U5 Solved.pdf",
+    "1- Rough Notes/Maths Workbook U1 Solution.md",
+    "6 - Full Notes/U1/Maths Workbook U1 Solution.pdf.crdownload",
+    "6 - Full Notes/U2/U2 Workbook Solved.pdf.crdownload",
+    "6 - Full Notes/U1/Maths Workbook U1 Solution.pdf",
     "4 - Indexes/Module 2 Statistical Techniques-II.md",
-    "6 - Full Notes/Practice Questions U1.4.md",
-    "1- Rough Notes/Practice Questions U1.4.md",
-    "1- Rough Notes/Practice Questions U1.2.md",
-    "1- Rough Notes/Practice Question U1.5.md",
-    "1- Rough Notes/Practice Question U1.3.md",
-    "1- Rough Notes/Practice Question U1.1.md",
-    "2 - Source Material/Unit 2/Stats2.pdf.crdownload",
-    "6 - Full Notes/U1/Practice Question U1.5.pdf.crdownload",
-    "6 - Full Notes/U1/Practice Question U1.3.pdf.crdownload",
-    "6 - Full Notes/U1/Practice Question U1.1.pdf.crdownload",
-    "6 - Full Notes/U1/Practice Questions U1.4.pdf.crdownload",
-    "6 - Full Notes/U1/Practice Questions U1.2.pdf.crdownload",
-    "6 - Full Notes/U1/Practice Questions U1.4.pdf",
-    "6 - Full Notes/Practice Question U1.5.md",
-    "6 - Full Notes/U1/Practice Question U1.5.pdf",
-    "6 - Full Notes/Practice Question U1.3.md",
-    "6 - Full Notes/U1/Practice Question U1.3.pdf",
-    "6 - Full Notes/Practice Questions U1.2.md",
-    "6 - Full Notes/U1/Practice Questions U1.2.pdf",
-    "6 - Full Notes/Practice Question U1.1.md",
-    "1- Rough Notes/U1.4-Mode.md",
-    "1- Rough Notes/U1.9-Kurtosis.md",
-    "1- Rough Notes/U1.7-Moment Continued.md",
-    "1- Rough Notes/U1.8-Skewness And Karl Pearson's Coefficient.md",
-    "1- Rough Notes/U1.6-Moment.md",
-    "1- Rough Notes/U1.5-Measures Of Dispersion.md",
-    "4 - Indexes/Stats And Probability.md",
+    "1- Rough Notes/Maths Workbook U2.md",
+    "6 - Full Notes/U2 Workbook Solved.md",
+    "6 - Full Notes/U2/U2 Workbook Solved.pdf",
+    "4 - Indexes/Module 4 Expectations and Probability Distribution.md",
+    "1- Rough Notes/Math's Workbook U4.md",
+    "1- Rough Notes/U5-Topic Wise Questions.md",
+    "1- Rough Notes/U5.2-Test of significance of difference of means.md",
+    "1- Rough Notes/U5.2.5-One way ANOVA.md",
+    "1- Rough Notes/U5.2.4-Chi-Square-Test.md",
+    "1- Rough Notes/U5.2.3-F-test.md",
+    "1- Rough Notes/U5.2.2-T-test.md",
+    "1- Rough Notes/U5.2.1-Z-test.md",
+    "1- Rough Notes/U5.1-Testing a Hypothesis.md",
+    "1- Rough Notes/U2-TopicWise Questions.md",
+    "1- Rough Notes/U2.3-Regression.md",
+    "6 - Full Notes/U2/U2.3-Regression.pdf.crdownload",
+    "Pasted image 20251126113754.png",
+    "2 - Source Material/Sessional/S2.2.jpg",
+    "2 - Source Material/Sessional/S2.1.jpg",
+    "2 - Source Material/Sessional/S1.3.jpg",
+    "2 - Source Material/Sessional/S1.2.jpg",
+    "2 - Source Material/Sessional/S1.1.jpg",
+    "Pasted image 20251125132728.png",
+    "Pasted image 20251125132702.png",
+    "Pasted image 20251125132619.png",
     "2 - Source Material/Unit 4/Unit-4 table stats.jpg",
-    "Pasted image 20251115164050.png",
-    "Pasted image 20251115164032.png",
-    "Pasted image 20251115164002.png",
-    "Pasted image 20251115163941.png",
-    "Pasted image 20251109135744.png",
-    "Pasted image 20251109135738.png",
     "Untitled 1.canvas",
     "Untitled 2.canvas",
     "Untitled.canvas"

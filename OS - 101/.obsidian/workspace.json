@@ -24,23 +24,39 @@
             }
           },
           {
-            "id": "1657a6ddffb5d003",
+            "id": "f3dc19eccdfee4d6",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1- Rough Notes/Unit 1 OS.md",
+                "file": "1- Rough Notes/Unit 2 OS.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Unit 1 OS"
+              "title": "Unit 2 OS"
+            }
+          },
+          {
+            "id": "9cbd1a349979096e",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1- Rough Notes/Unit 4 OS.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Unit 4 OS"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -198,43 +214,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1657a6ddffb5d003",
+  "active": "9cbd1a349979096e",
   "lastOpenFiles": [
+    "6 - Full Notes/U4/U4.2-Paging, Segmentation And VM.pdf.crdownload",
+    "6 - Full Notes/U4/U4.1-Memory Management In One Short.pdf.crdownload",
+    "1- Rough Notes/Memory Management In One Short.md",
+    "1- Rough Notes/Paging, Segmentation And VM.md",
+    "6 - Full Notes/U4/U4.2-Paging, Segmentation And VM.pdf",
+    "6 - Full Notes/U4/U4.1-Memory Management In One Short.pdf",
+    "6 - Full Notes/U4",
+    "6 - Full Notes/New folder",
+    "1- Rough Notes/Unit 4 OS.md",
+    "1- Rough Notes/Numerical Prac U4.md",
+    "4 - Indexes/College Index.md",
+    "1- Rough Notes/Unit 3 OS.md",
+    "4 - Indexes/Assignments.md",
+    "1- Rough Notes/Unit 2 OS.md",
+    "1- Rough Notes/Threads OS.md",
+    "1- Rough Notes/Scheduling Template.md",
+    "6 - Full Notes/U2/U2.6-Scheduling Template.pdf",
+    "1- Rough Notes/CPU Scheduling Basics.md",
+    "6 - Full Notes/U2/U2.5-CPU Scheduling Basics.pdf",
+    "1- Rough Notes/Process Management 1.md",
+    "1- Rough Notes/Unit 1 OS.md",
     "1- Rough Notes/Operating System 1.md",
     "6 - Full Notes/U1/dark_mode_Unit 1 Complete.pdf.crdownload",
     "6 - Full Notes/U1/Unit 1 Complete.pdf.crdownload",
     "6 - Full Notes/U1/dark_mode_Unit 1 Complete.pdf",
-    "6 - Full Notes/U1/Unit 1 Complete.pdf",
-    "1- Rough Notes/Unit 1 OS.md",
-    "4 - Indexes/College Index.md",
-    "1- Rough Notes/Unit 2 OS.md",
     "1- Rough Notes/Process Management 3.md",
-    "6 - Full Notes/U2/Process Management 3.pdf",
     "1- Rough Notes/Process Management 2.md",
-    "6 - Full Notes/U2/Process Management 2.pdf",
-    "1- Rough Notes/Process Management 1.md",
-    "6 - Full Notes/U2/Process Management 1.pdf",
-    "6 - Full Notes/U2",
-    "6 - Full Notes/New folder",
     "1- Rough Notes/Operating System 3.md",
-    "6 - Full Notes/U1/Operating System 3.pdf",
     "1- Rough Notes/Operating System 2.md",
     "4 - Indexes/Linux 101.md",
     "4 - Indexes/College HandNotes.md",
-    "4 - Indexes/Assignments.md",
     "1- Rough Notes/Process Synchronization & Deadlock.md",
     "1- Rough Notes/Process Sync In One Shot.md",
     "1- Rough Notes/Priority Based Algorithm.md",
-    "1- Rough Notes/Paging, Segmentation And VM.md",
     "1- Rough Notes/Numerical Unit 5.md",
-    "1- Rough Notes/Numerical Prac U4.md",
     "1- Rough Notes/Multilevel Queue & Feedback Scheduling.md",
-    "1- Rough Notes/Memory Management.md",
-    "1- Rough Notes/Memory Management In One Short.md",
-    "1- Rough Notes/IO Management.md",
-    "1- Rough Notes/IO Management And Disk Scheduling.md",
-    "1- Rough Notes/IO Ending.md",
-    "1- Rough Notes/Highest Response Ration First (HRRN).md",
     "5 - Screenshot Dump/Pasted image 20251121072506.png",
     "5 - Screenshot Dump/Pasted image 20251121072459.png",
     "5 - Screenshot Dump/Pasted image 20251121071047.png",
