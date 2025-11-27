@@ -1,6 +1,3 @@
-Here are the solutions to the multiple-choice questions, based on the statistical concepts we covered.
-
----
 
 ## Multiple Choice Questions Solutions
 
@@ -112,10 +109,10 @@ The $np$-chart monitors the number of defectives. Since the subgroup size ($n$) 
 
 **14. The following data shows the value of sample mean and range for 10 samples. Calculate mean of sample means and range.**
 
-|**Sample no.**|**1**|**2**|**3**|**4**|**5**|**6**|**7**|**8**|**9**|**10**|
-|---|---|---|---|---|---|---|---|---|---|---|
-|**Mean**|11.2|11.8|10.8|11.6|11|9.6|10.4|9.6|10.6|10|
-|**Range**|7|4|8|5|7|4|8|4|7|9|
+| **Sample no.** | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** | **10** |
+| -------------- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ------ |
+| **Mean**       | 11.2  | 11.8  | 10.8  | 11.6  | 11    | 9.6   | 10.4  | 9.6   | 10.6  | 10     |
+| **Range**      | 7     | 4     | 8     | 5     | 7     | 4     | 8     | 4     | 7     | 9      |
 
 * Number of samples ($k$): 10
 * **Mean of Sample Means ($\bar{\bar{x}}$):**
@@ -139,9 +136,6 @@ The $np$-chart monitors the number of defectives. Since the subgroup size ($n$) 
 For a contingency table used in a Chi-Square Test for Independence, the degrees of freedom ($df$) is calculated as:
 $$df = (\text{Number of Rows} - 1) \times (\text{Number of Columns} - 1)$$
 $$df = (5 - 1) \times (4 - 1) = 4 \times 3 = \mathbf{12}$$
-
-
----
 
 Here are the solutions to the short answer type questions, involving $Z$-tests, $t$-tests, $\chi^2$ tests, and control charts.
 

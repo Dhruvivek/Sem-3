@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1- Rough Notes/UNIT 2.md",
+                "file": "1- Rough Notes/Unit 5- OpenMP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "UNIT 2"
+              "title": "Unit 5- OpenMP"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "dc74bd27716b993d",
@@ -166,11 +167,13 @@
   },
   "active": "5f66d110bd16b08e",
   "lastOpenFiles": [
+    "6 - Full Notes/Unit 5- OpenMP.pdf",
+    "6 - Full Notes/Unit 5- OpenMP.pdf.crdownload",
+    "1- Rough Notes/UNIT 2.md",
     "1- Rough Notes/UNIT 3.md",
     "1- Rough Notes/UNIT 4 - Cluster Computing.md",
     "6 - Full Notes/UNIT 4 - Cluster Computing.pdf",
     "1- Rough Notes/Unit 5- OpenMP.md",
-    "6 - Full Notes/Unit 5- OpenMP.pdf",
     "2 - Source Material/Unit 5/U5.pdf",
     "6 - Full Notes/Harsh Raj.md",
     "6 - Full Notes/Panel Information.md",

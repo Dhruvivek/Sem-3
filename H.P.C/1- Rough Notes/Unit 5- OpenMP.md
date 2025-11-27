@@ -91,11 +91,11 @@ The execution of an OpenMP program starts **sequentially** with a single process
 - The **master thread** is always assigned the unique **Thread ID = 0**.
     
 
-|**Routine**|**Purpose**|
-|---|---|
-|**`omp_get_thread_num()`**|Returns the **unique integer ID** of the calling thread within its current team (ranging from 0 to $N-1$, where $N$ is the total number of threads).|
-|**`omp_get_num_threads()`**|Returns the **total number of threads** currently executing in the parallel region.|
-|**`omp_set_num_threads(n)`**|**Programmatically** sets the number of threads ($n$) that will be used for the _next_ parallel region encountered.|
+| **Routine**              | **Purpose**                                                                                                                                          |
+| ------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `omp_get_thread_num()`   | Returns the **unique integer ID** of the calling thread within its current team (ranging from 0 to $N-1$, where $N$ is the total number of threads). |
+| `omp_get_num_threads()`  | Returns the **total number of threads** currently executing in the parallel region.                                                                  |
+| `omp_set_num_threads(n)` | **Programmatically** sets the number of threads ($n$) that will be used for the _next_ parallel region encountered.                                  |
 
 ---
 
@@ -171,13 +171,13 @@ int main() {
 
 OpenMP directives, often applied to **structured blocks** of code (a block with a single entry and single exit point), are used to define the nature of parallelism and control thread behavior.
 
-| Directive | Purpose | Description |
-| :--- | :--- | :--- |
-| **`#pragma omp parallel`** | **Parallel Region** | The primary directive. It creates a team of threads and marks the beginning of a parallel block of code. |
-| **`#pragma omp for`** | **Work Sharing (Loop)** | Splits the iterations of the immediately following `for` loop among the threads in the currently active parallel region. |
-| **`#pragma omp sections`** | **Work Sharing (Tasks)** | Divides different, independent code blocks (sections) among the threads. Each section is executed by only one thread. |
-| **`#pragma omp single`** | **Execution Control** | Executes the associated structured block by **only one thread** (typically the first thread to arrive), while other threads wait or continue if `nowait` is specified. |
-| **`#pragma omp critical`** | **Synchronization** | Protects a shared block of code (the critical section). **Only one thread** can execute this section at a time, preventing race conditions. |
+| Directive              | Purpose                  | Description                                                                                                                                                            |
+| :--------------------- | :----------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `#pragma omp parallel` | **Parallel Region**      | The primary directive. It creates a team of threads and marks the beginning of a parallel block of code.                                                               |
+| `#pragma omp for`      | **Work Sharing (Loop)**  | Splits the iterations of the immediately following `for` loop among the threads in the currently active parallel region.                                               |
+| `#pragma omp sections` | **Work Sharing (Tasks)** | Divides different, independent code blocks (sections) among the threads. Each section is executed by only one thread.                                                  |
+| `#pragma omp single`   | **Execution Control**    | Executes the associated structured block by **only one thread** (typically the first thread to arrive), while other threads wait or continue if `nowait` is specified. |
+| `#pragma omp critical` | **Synchronization**      | Protects a shared block of code (the critical section). **Only one thread** can execute this section at a time, preventing race conditions.                            |
 
 -----
 
@@ -185,10 +185,10 @@ OpenMP directives, often applied to **structured blocks** of code (a block with 
 
 To ensure the compiler recognizes and processes the OpenMP directives and links the necessary runtime library, a specific flag must be used during compilation.
 
-| Compiler | Compilation Command | Flag |
-| :--- | :--- | :--- |
-| **GCC** (GNU Compiler Collection) | `gcc -fopenmp program.c -o output` | **`-fopenmp`** |
-| **Intel Compiler** (ICC/ICX) | `icc -qopenmp program.c -o output` | **`-qopenmp`** |
+| Compiler                          | Compilation Command                | Flag       |
+| :-------------------------------- | :--------------------------------- | :--------- |
+| **GCC** (GNU Compiler Collection) | `gcc -fopenmp program.c -o output` | `-fopenmp` |
+| **Intel Compiler** (ICC/ICX)      | `icc -qopenmp program.c -o output` | `-qopenmp` |
 
 These flags tell the compiler to enable OpenMP support, effectively translating the directives into calls to the OpenMP runtime library.
 

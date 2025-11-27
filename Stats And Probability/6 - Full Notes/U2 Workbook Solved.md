@@ -683,9 +683,9 @@ $$\mathbf{\rho \approx +0.5881}$$
 
 **Model:** $\hat{Y} = a + b_{yx} X$ ($Y$: Sales (dependent), $X$: Scores (independent)).
 
-| Test scores ($X$) | 50 | 60 | 50 | 60 | 80 | 50 | 80 | 40 | 70 |
-|---|---|---|---|---|---|---|---|---|
-| Weekly sales ($Y$) | 30 | 60 | 40 | 50 | 60 | 30 | 70 | 50 | 60 |
+| Test scores ($X$)  | 50  | 60  | 50  | 60  | 80  | 50  | 80  | 40  | 70  |
+| ------------------ | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Weekly sales ($Y$) | 30  | 60  | 40  | 50  | 60  | 30  | 70  | 50  | 60  |
 
 #### 1. Calculate the Required Sums
 

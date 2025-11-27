@@ -4,13 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "e6ae157da204f220",
+        "id": "af6f9cfae407957a",
         "type": "tabs",
         "children": [
           {
-            "id": "5f66d110bd16b08e",
+            "id": "6a511bc4df617d7f",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -18,25 +17,8 @@
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
               "title": "Module 1 Statistical Techniques-I"
-            }
-          },
-          {
-            "id": "d4aee8b48070db1f",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4 - Indexes/Module 5 Hypothesis Tests And Control Charts.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Module 5 Hypothesis Tests And Control Charts"
             }
           }
         ]
@@ -96,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "dc74bd27716b993d",
@@ -188,30 +169,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5f66d110bd16b08e",
+  "active": "6a511bc4df617d7f",
   "lastOpenFiles": [
+    "4 - Indexes/Module 1 Statistical Techniques-I.md",
     "4 - Indexes/Module 5 Hypothesis Tests And Control Charts.md",
-    "1- Rough Notes/Math's Workbook U3 Solution.md",
-    "6 - Full Notes/U3/Math's Workbook U3 Solution.pdf",
+    "4 - Indexes/Module 2 Statistical Techniques-II.md",
     "4 - Indexes/Module 3 Probability and Random Variable.md",
+    "1- Rough Notes/Workbook Questions U3.md",
+    "1- Rough Notes/Math's Workbook U3 Solution.md",
+    "6 - Full Notes/U2 Workbook Solved.md",
+    "1- Rough Notes/Maths Workbook U2.md",
+    "1- Rough Notes/Maths Workbook U1 Solution.md",
+    "6 - Full Notes/U5.3-Control Charts.md",
+    "1- Rough Notes/Math's Workbook U5 Solved.md",
+    "2 - Source Material/Unit 5/Stat5.pdf",
+    "1- Rough Notes/U1.6-Moment.md",
+    "1- Rough Notes/U5.2.1-Z-test.md",
+    "1- Rough Notes/U5.2.2-T-test.md",
+    "6 - Full Notes/U3/Math's Workbook U3 Solution.pdf",
     "6 - Full Notes/U3.4- Practice Set 1.md",
     "6 - Full Notes/U3.6-Practice Set 2.md",
     "6 - Full Notes/U3/U3.6-Practice Set 2.pdf",
     "6 - Full Notes/U3 Topicwise Questions.md",
-    "4 - Indexes/Module 1 Statistical Techniques-I.md",
     "6 - Full Notes/U3/U3.4- Practice Set 1.pdf",
-    "6 - Full Notes/U5.3-Control Charts.md",
     "6 - Full Notes/U5/U5.3-Control Charts.pdf",
     "1- Rough Notes/Math's Workbook U5.md",
-    "1- Rough Notes/Math's Workbook U5 Solved.md",
     "6 - Full Notes/U5/Math's Workbook U5 Solved.pdf",
-    "1- Rough Notes/Maths Workbook U1 Solution.md",
     "6 - Full Notes/U1/Maths Workbook U1 Solution.pdf.crdownload",
     "6 - Full Notes/U2/U2 Workbook Solved.pdf.crdownload",
     "6 - Full Notes/U1/Maths Workbook U1 Solution.pdf",
-    "4 - Indexes/Module 2 Statistical Techniques-II.md",
-    "1- Rough Notes/Maths Workbook U2.md",
-    "6 - Full Notes/U2 Workbook Solved.md",
     "6 - Full Notes/U2/U2 Workbook Solved.pdf",
     "4 - Indexes/Module 4 Expectations and Probability Distribution.md",
     "1- Rough Notes/Math's Workbook U4.md",
@@ -220,12 +206,7 @@
     "1- Rough Notes/U5.2.5-One way ANOVA.md",
     "1- Rough Notes/U5.2.4-Chi-Square-Test.md",
     "1- Rough Notes/U5.2.3-F-test.md",
-    "1- Rough Notes/U5.2.2-T-test.md",
-    "1- Rough Notes/U5.2.1-Z-test.md",
     "1- Rough Notes/U5.1-Testing a Hypothesis.md",
-    "1- Rough Notes/U2-TopicWise Questions.md",
-    "1- Rough Notes/U2.3-Regression.md",
-    "6 - Full Notes/U2/U2.3-Regression.pdf.crdownload",
     "Pasted image 20251126113754.png",
     "2 - Source Material/Sessional/S2.2.jpg",
     "2 - Source Material/Sessional/S2.1.jpg",
